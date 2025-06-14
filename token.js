@@ -11,7 +11,7 @@ let payload = {
 
 let response = await axios.post('https://discord.com/api/v9/auth/login', payload)
 console.log(response.data.token)
-console.log('made by ogluxury')
+console.log('made by itsskairo')
 };
 
 gettoken()
